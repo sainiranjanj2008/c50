@@ -1,0 +1,17 @@
+h1{
+    color:aquamarine;
+}
+*{ 
+ border:solid;
+}
+p{
+    color:aqua;
+}
+.header{
+    background-color: blanchedalmond;
+    display:flex;
+    justify-content: space-between;
+}
+.description{
+    background-color: blanchedalmond;
+}
